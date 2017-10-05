@@ -1,5 +1,5 @@
-#ifndef INTERSECTION_SORT_H
-#define INTERSECTION_SORT_H
+#ifndef SELECTION_SORT_H
+#define SELECTION_SORT_H
 #pragma once
 
 #include <vector>
